@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/Library/Developer/CommandLineTools/usr/bin/gcc"
+        }
+    ],
+    "version": 4
+}
